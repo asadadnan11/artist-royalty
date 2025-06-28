@@ -189,46 +189,68 @@ The anomaly detection system employs three complementary methodologies to ensure
 
 ## 📊 Visualizations
 
-The notebook includes **17 comprehensive visualizations** designed for executive presentation and technical analysis:
+The notebook includes **17 comprehensive visualizations** designed for executive presentation and technical analysis. Below are sample visualizations showcasing the project's analytical capabilities:
 
-### Executive Dashboard (Power BI-Style)
+### Executive Dashboard
 
-A **professional 7-chart dashboard** (20x16 inches) providing stakeholders with immediate business insights:
+A comprehensive multi-chart dashboard providing stakeholders with immediate business insights:
 
-1. **Revenue Distribution by Licensing Channel**: Horizontal bar chart with value labels showing total revenue contribution by channel
-2. **Top 15 Artists by Revenue**: Color-coded vertical bar chart highlighting highest-earning artists with plasma color palette
-3. **Regional Revenue Distribution**: Interactive pie chart displaying geographic revenue allocation with percentages
-4. **Payment Status Distribution**: Bar chart showing transaction processing status using coolwarm color scheme
-5. **Royalty Amount Distribution**: Histogram with logarithmic scale revealing payment amount patterns
-6. **Monthly Revenue Trends**: Time series line plot with markers showing revenue evolution over time
-7. **Anomaly Detection Summary**: Comparative bar chart analyzing outlier detection methods with color coding
+![Executive Dashboard](images/executive_dashboard.png)
 
-### Data Quality Visualizations
+*Professional dashboard featuring revenue analysis, artist performance, regional distribution, payment status, and key statistics*
 
-Essential charts for understanding data integrity:
+### Revenue Analysis
 
-1. **Missing Values Heatmap**: Visual pattern analysis of missing data across 1,000 record sample using viridis color map
-2. **Missing Values by Column**: Horizontal bar chart showing count of missing values by column
+**Revenue Distribution by Licensing Channel**
+![Revenue by Channel](images/revenue_by_channel.png)
 
-### Deep Dive Analysis Suite
+*Horizontal bar chart showing total revenue contribution across different licensing channels with value labels*
 
-Six focused charts for detailed analytical insights:
+**Top Artists by Revenue**
+![Top Artists](images/top_artists.png)
 
-1. **Royalty Distribution by Channel**: Box plots showing payment ranges and outliers across licensing channels
-2. **Revenue Heatmap**: Annotated matrix visualization of region vs. channel performance with YlOrRd color scheme
-3. **Monthly Revenue and Transaction Trends**: Dual-axis time series with blue revenue line and red transaction count
-4. **Artist Performance Scatter Plot**: Revenue vs. transaction volume correlation with color-coded revenue intensity
-5. **Payment Status Timeline**: Stacked bar chart showing quarterly payment status evolution
-6. **Royalty Tier Distribution**: Transaction categorization by payment amounts with percentage labels
+*Color-coded vertical bar chart highlighting highest-earning artists using plasma color palette*
 
-### Anomaly Analysis Dashboard
+### Geographic and Operational Insights
 
-Specialized 4-chart dashboard for outlier investigation:
+**Regional Revenue Distribution**
+![Regional Distribution](images/regional_distribution.png)
 
-1. **Anomalies by Licensing Channel**: Bar chart distribution of outliers across revenue streams
-2. **Anomaly Score Distribution**: Histogram showing frequency of detection confidence levels
-3. **High-Value Anomalies**: Scatter plot highlighting significant payment outliers above $200
-4. **Temporal Anomaly Patterns**: Monthly timeline showing anomaly occurrence trends
+*Interactive pie chart displaying geographic revenue allocation with percentage breakdowns*
+
+**Payment Status Distribution**
+![Payment Status](images/payment_status.png)
+
+*Bar chart showing transaction processing status distribution using professional color schemes*
+
+### Statistical Analysis
+
+**Royalty Amount Distribution**
+![Royalty Distribution](images/royalty_distribution.png)
+
+*Histogram with logarithmic scale revealing payment amount patterns and frequency distributions*
+
+### Additional Visualizations in Notebook
+
+The complete notebook includes 11 additional specialized charts:
+
+**Data Quality Visualizations:**
+- Missing Values Heatmap: Visual pattern analysis using viridis color map
+- Missing Values by Column: Horizontal bar chart showing data quality metrics
+
+**Deep Dive Analysis Suite:**
+- Royalty Distribution by Channel: Box plots showing payment ranges and outliers
+- Revenue Heatmap: Annotated matrix visualization of region vs. channel performance
+- Monthly Revenue and Transaction Trends: Dual-axis time series analysis
+- Artist Performance Scatter Plot: Revenue vs. transaction volume correlation
+- Payment Status Timeline: Stacked bar chart showing quarterly evolution
+- Royalty Tier Distribution: Transaction categorization by payment amounts
+
+**Anomaly Analysis Dashboard:**
+- Anomalies by Licensing Channel: Bar chart distribution of outliers
+- Anomaly Score Distribution: Histogram of detection confidence levels
+- High-Value Anomalies: Scatter plot highlighting significant outliers
+- Temporal Anomaly Patterns: Monthly timeline showing anomaly trends
 
 ### Technical Specifications
 
@@ -237,6 +259,7 @@ Specialized 4-chart dashboard for outlier investigation:
 - **Chart Types**: Bar, pie, scatter, heatmap, box plots, histograms, time series
 - **Styling**: Publication-ready with proper titles, labels, legends, and value annotations
 - **Layout**: Multi-subplot dashboards optimized for executive presentation
+- **Export Format**: High-resolution PNG files (300 DPI) for reports and presentations
 
 ---
 

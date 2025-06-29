@@ -1,4 +1,4 @@
-# 🎵 Artist Royalty Data Quality Project
+# Artist Royalty Data Quality Project
 
 ## Executive Summary
 
@@ -6,23 +6,23 @@ The **Artist Royalty Data Quality Project** is a comprehensive data analytics so
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [Project Objectives](#-project-objectives)
-- [Dataset Overview](#-dataset-overview)
-- [Data Cleaning Process](#-data-cleaning-process)
-- [Anomaly Detection](#-anomaly-detection)
-- [Key Business Metrics](#-key-business-metrics)
-- [Visualizations](#-visualizations)
-- [Exported Deliverables](#-exported-deliverables)
-- [How to Run the Notebook](#-how-to-run-the-notebook)
-- [Results Summary](#-results-summary)
-- [Credits & Contact](#-credits--contact)
-- [License](#-license)
+- [Project Objectives](#project-objectives)
+- [Dataset Overview](#dataset-overview)
+- [Data Cleaning Process](#data-cleaning-process)
+- [Anomaly Detection](#anomaly-detection)
+- [Key Business Metrics](#key-business-metrics)
+- [Visualizations](#visualizations)
+- [Exported Deliverables](#exported-deliverables)
+- [How to Run the Notebook](#how-to-run-the-notebook)
+- [Results Summary](#results-summary)
+- [Credits & Contact](#credits--contact)
+- [License](#license)
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 ### Why Accurate Royalty Tracking Matters
 
@@ -49,7 +49,7 @@ The **Artist Royalty Data Quality Project** is a comprehensive data analytics so
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 ### Synthetic Data Generation
 
@@ -95,7 +95,7 @@ To simulate real-world conditions, the following quality issues are systematical
 
 ---
 
-## 🧹 Data Cleaning Process
+## Data Cleaning Process
 
 ### Comprehensive Data Standardization
 
@@ -126,7 +126,7 @@ The data cleaning process follows industry best practices for financial data pro
 
 ---
 
-## 🔍 Anomaly Detection
+## Anomaly Detection
 
 ### Multi-Method Approach
 
@@ -157,7 +157,7 @@ The anomaly detection system employs three complementary methodologies to ensure
 
 ---
 
-## 📈 Key Business Metrics
+## Key Business Metrics
 
 ### Revenue Analytics
 
@@ -187,7 +187,7 @@ The anomaly detection system employs three complementary methodologies to ensure
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 The notebook includes **17 comprehensive visualizations** designed for executive presentation and technical analysis. Below are sample visualizations showcasing the project's analytical capabilities:
 
@@ -263,7 +263,7 @@ The complete notebook includes 11 additional specialized charts:
 
 ---
 
-## 📁 Exported Deliverables
+## Exported Deliverables
 
 ### CSV Export Files
 
@@ -300,7 +300,7 @@ The project generates four specialized datasets for different stakeholder needs:
 
 ---
 
-## 🚀 How to Run the Notebook
+## How to Run the Notebook
 
 ### Prerequisites
 
@@ -333,7 +333,7 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn scipy faker jupy
 
 ---
 
-## 📋 Results Summary
+## Results Summary
 
 ### Key Findings
 
@@ -371,7 +371,7 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn scipy faker jupy
 
 ---
 
-## 👥 Credits & Contact
+## Credits & Contact
 
 ### Project Development
 
@@ -403,18 +403,18 @@ For questions, support, or collaboration opportunities:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 The MIT License is a permissive open-source license that allows for commercial and non-commercial use, modification, and distribution of the code. This license ensures that the Artist Royalty Data Quality Project can be freely used by music rights organizations, data scientists, and developers while maintaining attribution requirements.
 
 **Key License Features:**
-- ✅ Commercial use permitted
-- ✅ Modification and distribution allowed
-- ✅ Private use encouraged
-- ✅ No warranty or liability obligations
-- ✅ Attribution required
+- Commercial use permitted
+- Modification and distribution allowed
+- Private use encouraged
+- No warranty or liability obligations
+- Attribution required
 
 ---
 
